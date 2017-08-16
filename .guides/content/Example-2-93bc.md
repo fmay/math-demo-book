@@ -1,9 +1,12 @@
 Most of the more “interesting” functions for finding critical points aren’t polynomials however.  So let’s take a look at some functions that require a little more effort on our part.
 
 ||| important
-**Example 2** Determine all the critical points for the function.
+**Example 2**
+Determine all the critical points for the function.
 
 $ g(t)=\sqrt[3]{t^2}(2t-1) $
+
+|||
 
 **Solution**
 To find the derivative it’s probably easiest to do a little simplification before we actually differentiate.  Let’s multiply the root through the parenthesis and simplify as much as possible.  This will allow us to avoid using the product rule when taking the derivative.
@@ -31,5 +34,3 @@ Notice that we still have $t=0$ as a critical point.  Doing this kind of combini
 So, in this case we can see that the numerator will be zero if $t=\frac{1}{5}and so there are two critical points for this function.
 
 $t=0$ and $t=\frac{1}{5} $
-
-|||

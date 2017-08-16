@@ -65,22 +65,59 @@
        "type": "section",
        "children": [
         {
-         "id": "a83d9893-272d-a9ba-fc3b-bab42b949680",
          "title": "Critical Points",
-         "pageId": "c9fe6f0c-f455-a2d7-db81-1bacddec00ed",
-         "type": "page"
+         "id": "a83d9893-272d-a9ba-fc3b-bab42b949680",
+         "type": "page",
+         "pageId": "c9fe6f0c-f455-a2d7-db81-1bacddec00ed"
         },
         {
-         "id": "fc46aa7d-4663-6a80-6a8e-70b8822cc2dc",
          "title": "Example 1",
-         "pageId": "b08f34c5-aa57-74f7-b12a-b5fd9cc35992",
-         "type": "page"
+         "id": "fc46aa7d-4663-6a80-6a8e-70b8822cc2dc",
+         "type": "page",
+         "pageId": "b08f34c5-aa57-74f7-b12a-b5fd9cc35992"
         },
         {
-         "id": "8b808f77-213d-66ed-772a-2b7c8e9e7b5d",
          "title": "Example 2",
-         "pageId": "93bcc150-e8df-f798-86a6-3a945351fc4a",
-         "type": "page"
+         "id": "8b808f77-213d-66ed-772a-2b7c8e9e7b5d",
+         "type": "page",
+         "pageId": "93bcc150-e8df-f798-86a6-3a945351fc4a"
+        },
+        {
+         "title": "Challenges",
+         "id": "51935efb-58eb-e517-3c15-288ffcb12143",
+         "type": "section",
+         "children": [
+          {
+           "title": "Minimum in Interval",
+           "id": "7a660792-f13c-aecf-8dbd-4ecc2045ae11",
+           "type": "page",
+           "pageId": "dd8eb1cf-3432-4ae0-9ad9-9fcd22a15d8a"
+          },
+          {
+           "title": "Definite Integral",
+           "id": "37a79d52-e827-e8d1-0673-eee70a8d4330",
+           "type": "page",
+           "pageId": "986a1ab4-b78a-179b-6e65-a643ab900db6"
+          },
+          {
+           "title": "Solve equation with 2 cases",
+           "id": "d25419c0-3628-9783-2b26-7956711b5dd7",
+           "type": "page",
+           "pageId": "3661377c-131c-e697-adb5-8ac8b845d267"
+          },
+          {
+           "id": "80551c2f-9714-1f79-b581-6aae609ce178",
+           "title": "Simultaneous Equation",
+           "pageId": "447828c0-718a-77ff-24e5-05c92b4fc66f",
+           "type": "page"
+          },
+          {
+           "id": "0c8df50f-31d2-0361-ed02-d3a038349cac",
+           "title": "Limit",
+           "pageId": "42ae5e44-48b4-286c-5dc5-b41aa13a09c1",
+           "type": "page"
+          }
+         ]
         }
        ]
       },

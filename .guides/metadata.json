@@ -59,6 +59,66 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
+  },
+  {
+   "id": "dd8eb1cf-3432-4ae0-9ad9-9fcd22a15d8a",
+   "title": "Minimum in Interval",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Minimum-in-Interval-dd8e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "986a1ab4-b78a-179b-6e65-a643ab900db6",
+   "title": "Definite Integral",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Definite-Integral-986a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3661377c-131c-e697-adb5-8ac8b845d267",
+   "title": "Solve equation with 2 cases",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Solve-equation-with-2-cases-3661.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "447828c0-718a-77ff-24e5-05c92b4fc66f",
+   "title": "Simultaneous Equation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simultaneous-Equation-4478.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "42ae5e44-48b4-286c-5dc5-b41aa13a09c1",
+   "title": "Limit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Limit-42ae.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
