@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "id": "baba980a-786a-0582-c7c3-7834689b0f8e",
+   "title": "Page 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-1-baba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7e39ce19-f3e9-f96f-c624-372e18b4b2b8",
+   "title": "Page 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-7e39.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c9fe6f0c-f455-a2d7-db81-1bacddec00ed",
+   "title": "Critical Points",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Critical-Points-c9fe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b08f34c5-aa57-74f7-b12a-b5fd9cc35992",
+   "title": "Example 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Example-1-b08f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "93bcc150-e8df-f798-86a6-3a945351fc4a",
+   "title": "Example 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Example-2-93bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false,
+ "allowGuideClose": false
+}

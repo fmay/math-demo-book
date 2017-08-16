@@ -1,0 +1,158 @@
+{
+ "name": "Mathematics",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "d41bf21c-5129-50f5-ffd1-57512f39381c",
+   "type": "page",
+   "pageId": "baba980a-786a-0582-c7c3-7834689b0f8e"
+  },
+  {
+   "title": "Page 2",
+   "id": "6def5b9a-d2bd-d1f9-a556-4183a0327bd2",
+   "type": "page",
+   "pageId": "7e39ce19-f3e9-f96f-c624-372e18b4b2b8"
+  },
+  {
+   "title": "Algebra",
+   "id": "7da8b9c5-7c27-66bc-1a9a-47d4144362b6",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Trigonometry",
+   "id": "fd738476-491c-660d-05bc-b5f56b2d389d",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Calculus",
+   "id": "7794e936-112a-2486-edf4-cd7d27fd66c2",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Review",
+     "id": "e96af545-b7d7-f2ee-f93e-270b67b02713",
+     "type": "section",
+     "children": []
+    },
+    {
+     "title": "Limits",
+     "id": "cf5b0ab2-35eb-cb15-dc12-3e1e34b2b4ac",
+     "type": "section",
+     "children": []
+    },
+    {
+     "title": "Derivatives",
+     "id": "87323ff4-73d1-079f-acf4-acc2c3ebd130",
+     "type": "section",
+     "children": []
+    },
+    {
+     "title": "Applications of Derivatives",
+     "id": "80636c2e-cddb-e123-124f-94d3cc3ecee2",
+     "type": "section",
+     "children": [
+      {
+       "title": "Rates of Changes",
+       "id": "0266e4c7-f70c-84bd-47c0-34a52106a700",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "Critical Points",
+       "id": "b8a3d27e-6cd4-75bd-67c9-5ce3fa90074d",
+       "type": "section",
+       "children": [
+        {
+         "id": "a83d9893-272d-a9ba-fc3b-bab42b949680",
+         "title": "Critical Points",
+         "pageId": "c9fe6f0c-f455-a2d7-db81-1bacddec00ed",
+         "type": "page"
+        },
+        {
+         "id": "fc46aa7d-4663-6a80-6a8e-70b8822cc2dc",
+         "title": "Example 1",
+         "pageId": "b08f34c5-aa57-74f7-b12a-b5fd9cc35992",
+         "type": "page"
+        },
+        {
+         "id": "8b808f77-213d-66ed-772a-2b7c8e9e7b5d",
+         "title": "Example 2",
+         "pageId": "93bcc150-e8df-f798-86a6-3a945351fc4a",
+         "type": "page"
+        }
+       ]
+      },
+      {
+       "title": "Minimum and Maximum Values",
+       "id": "07d49556-a402-1013-9b53-aa502285a423",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "Finding Absolute Extrema",
+       "id": "b283a457-d0de-8346-19a6-a83d7d090839",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "The Shape of a Graph - Part 1",
+       "id": "aac8bd04-8a55-ff94-be71-6ee0273d4914",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "The Shape of a Graph - Part 2",
+       "id": "0368dd66-2063-4f15-ebae-71861a20b0e5",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "The Mean Value Theorem",
+       "id": "ad647da4-b98c-fdf2-e777-a6a6f4edb76a",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "Optimization Problems",
+       "id": "46699726-b6ad-a9ec-e519-bde565e2b34f",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "More Optimization Problems",
+       "id": "d77bb47e-e81a-3896-b3bd-3315bdcd872f",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "L’Hospital’s Rule and Indeterminate Forms",
+       "id": "2bd75ea3-97bd-4cbb-de0b-ec2d86b92670",
+       "type": "section",
+       "children": []
+      },
+      {
+       "title": "Linear Approximation",
+       "id": "44ec11fc-9a78-1eff-b64d-d9381b6db650",
+       "type": "section",
+       "children": []
+      }
+     ]
+    },
+    {
+     "title": "Integrals",
+     "id": "4271882a-69b5-34e7-91de-4ea1fcbb5abb",
+     "type": "section",
+     "children": []
+    },
+    {
+     "title": "Applications of Integrals",
+     "id": "6bf3323c-d0c0-6094-14b9-077fd0d3b89a",
+     "type": "section",
+     "children": []
+    }
+   ]
+  }
+ ]
+}
